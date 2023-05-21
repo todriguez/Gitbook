@@ -3,22 +3,30 @@
 ### I. Introduction (15 minutes)
 
 * Overview of micropayments with the Bitcoin Protocol
+* Over view of Action Protocols
 * Impact on subscription and user data selling models&#x20;
 
-### II. History and Importance of Micropayments (20 minutes)&#x20;
+### II. History and Importance of Micropayments (15 minutes)&#x20;
 
-* Micropayments as the holy grail of the internet&#x20;
+* Micropayments: the difference between 0.01c and 0c at scale with Metcalfe and Reid's Laws&#x20;
 * Challenges faced by other micropayment solutions&#x20;
 * The Bitcoin Protocol and its approach to micropayments&#x20;
 
-### III. Scalability and Micropayments (20 minutes)&#x20;
+### III. Scalability and Micropayments (15 minutes)&#x20;
 
 * 1 billion transactions per second (tps) by 2030 at a thousandth of a cent&#x20;
 * Opening new markets through micropayments&#x20;
 * Data as the new oil and the role of micropayments in returning value to users&#x20;
-* Size of the potential micropayments market&#x20;
+* Size of the potential micropayments market
 
-### IV. Impact on Traditional Business Models (20 minutes)&#x20;
+### &#x20;IV. Action Protocols (15 minutes)
+
+* Project Babbage is leading the way in this paradigm
+* Micropayments enable users to take actions, with those actions recorded immutably on chain, either directly on chain or on a second layer
+* Users own all their own actions and therefore data
+* Users can take their data with them between platforms, and anyone who wants to access their data must come to consensus with the user
+
+### V. Impact on Traditional Business Models (15 minutes)&#x20;
 
 * Legacy financial processors (PayPal and Visa)&#x20;
 * Customer satisfaction with subscription models and social media services&#x20;
@@ -26,13 +34,13 @@
 * Knowledge is power: Empowering users through micropayments&#x20;
 * Secondary markets for data and data integrity&#x20;
 
-### &#x20;V. Case Study: Enabling Financial Inclusion through Micropayments (15 minutes)&#x20;
+### VI. Case Study: Enabling Financial Inclusion through Micropayments (15 minutes)&#x20;
 
 * Overview of financial inclusion challenges in the world&#x20;
 * The potential of the Bitcoin Protocol's micropayments for enabling financial services access&#x20;
 * Benefits for the unbanked population, businesses, and the overall economy&#x20;
 
-### &#x20; VI. Summary and Q\&A (10 minutes)&#x20;
+### &#x20; VII. Summary and Q\&A (10 minutes)&#x20;
 
 * Recap of key points covered in the lesson&#x20;
 * Open the floor for questions and discussion&#x20;

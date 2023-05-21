@@ -9,4 +9,10 @@ The implementation of micropayments and the end-to-end IPv6:Bitcoin model can si
 
 Additionally, the implementation of the Bitcoin Protocol in various sectors can lead to more efficient, user-centric services that directly benefit individuals. For example, in the energy sector, peer-to-peer trading of renewable energy can lower costs and promote sustainability. In the healthcare sector, blockchain technology can improve the security and privacy of medical records, ensuring patients receive better care.
 
-In conclusion, the implementation of the Bitcoin Protocol's micropayments and the end-to-end IPv6:Bitcoin model can lead to substantial economic growth, accountability, transparency, and improvements in the Human Development Index. These advancements can ultimately result in a higher quality of life for individuals and communities, creating a more equitable, prosperous, and sustainable society.\
+In conclusion, the implementation of the Bitcoin Protocol's micropayments and the end-to-end IPv6:Bitcoin model can lead to substantial economic growth, accountability, transparency, and improvements in the Human Development Index. These advancements can ultimately result in a higher quality of life for individuals and communities, creating a more equitable, prosperous, and sustainable society.
+
+The following video, by Adam Curtis, can be used to prompt a high level leadership and philosophical discussion about the current decade, reason to be optimistic, reasons to be pessimistic, and what Bitcoin's place is within those reasons.
+
+{% embed url="https://youtu.be/AHXh1222HhE" %}
+
+\

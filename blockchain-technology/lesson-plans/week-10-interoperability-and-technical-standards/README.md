@@ -12,7 +12,7 @@ B. Technical Standards Committee and its role&#x20;
 
 &#x20;&#x20;
 
-II. Importance of Technical Standards (20 minutes)&#x20;
+II. Importance of Technical Standards (15 minutes)&#x20;
 
 A. Achieving optimal performance in Bitcoin SV&#x20;
 
@@ -22,7 +22,7 @@ C. VR and AR immersive experiences and the role of technical standards&#x20;
 
 &#x20;&#x20;
 
-III. Bitcoin Association and Technical Standards Committee (TSC) (20 minutes)&#x20;
+III. Bitcoin Association and Technical Standards Committee (TSC) (15 minutes)&#x20;
 
 A. Overview of the Bitcoin Association&#x20;
 
@@ -30,9 +30,19 @@ B. Role of the TSC in promoting and maintaining technical standards&#x20;
 
 C. Comparison with IEEE and its significance in technology development&#x20;
 
-&#x20;&#x20;
 
-IV. Interoperability and Its Advantages (15 minutes)&#x20;
+
+IV. BitcoinSV Request for Comments (BRC) (10 minutes)
+
+A. An Open Source and Collaborative way to create standardised Bitcoin Script Distributed Applications
+
+B. Modeled on ERC (Ethereum Request for Comments) which produced ERC-20, ERC-721, ERC-1155 token protocols, used widely today.
+
+C. Peruse at [https://github.com/bitcoin-sv/BRCs](https://github.com/bitcoin-sv/BRCs)&#x20;
+
+
+
+V. Interoperability and Its Advantages (15 minutes)&#x20;
 
 A. Definition of interoperability&#x20;
 
@@ -42,7 +52,7 @@ C. Real-world examples of interoperability&#x20;
 
 
 
-V. The Set in Stone Protocol and its Significance (15 minutes)&#x20;
+VI. The Set in Stone Protocol and its Significance (15 minutes)&#x20;
 
 A. Importance of a stable protocol for the Bitcoin SV ecosystem&#x20;
 
@@ -52,7 +62,7 @@ C. Relationship between technical standards and a stable protocol
 
 &#x20;&#x20;
 
-VI. Case Study: Building a Performant VR and AR World using Bitcoin SV Technical Standards (20 minutes)&#x20;
+VII. Case Study: Building a Performant VR and AR World using Bitcoin SV Technical Standards (20 minutes)&#x20;
 
 A. The vision of a VR and AR world leveraging nVidia Holodeck technology&#x20;
 
@@ -62,7 +72,7 @@ C. Challenges and potential solutions for creating an interoperable VR and AR ec
 
 &#x20;&#x20;
 
-VII. Summary and Q\&A (10 minutes)&#x20;
+VIII. Summary and Q\&A (10 minutes)&#x20;
 
 A. Recap of key points covered in the lesson&#x20;
 
