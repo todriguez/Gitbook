@@ -4,7 +4,7 @@
 
 * [Blockchain for Business 101](README.md)
   * [Subject Outline](blockchain-technology/blockchain-for-business-101/subject-outline.md)
-* [Ateneo Course Outline](<README (1).md>)
+* [Ateneo Course Outline](README.md)
 * [Social Impact](blockchain-technology/social-impact/README.md)
   * [Social Microservices Architecture](blockchain-technology/social-impact/social-microservices-architecture.md)
   * [Quality of Life Impacts of Social Microservices Architecture](blockchain-technology/social-impact/quality-of-life-impacts-of-social-microservices-architecture.md)
