@@ -4,7 +4,7 @@
 
 * [Blockchain for Business 101](README.md)
   * [Subject Outline](blockchain-technology/blockchain-for-business-101/subject-outline.md)
-* [Ateneo Course Outline](README.md)
+* [Ateneo Course Outline](<README (1).md>)
 * [Social Impact](blockchain-technology/social-impact/README.md)
   * [Social Microservices Architecture](blockchain-technology/social-impact/social-microservices-architecture.md)
   * [Quality of Life Impacts of Social Microservices Architecture](blockchain-technology/social-impact/quality-of-life-impacts-of-social-microservices-architecture.md)
@@ -37,7 +37,7 @@
     * [The Efficiency of Bitcoin Script](blockchain-technology/lesson-plans/week-7-turing-complete-bitcoin-script-and-flexibility/the-efficiency-of-bitcoin-script.md)
     * [sCrypt](blockchain-technology/lesson-plans/week-7-turing-complete-bitcoin-script-and-flexibility/scrypt.md)
   * [Week 8: Overlay Networks, DHTs, and CDNs](blockchain-technology/lesson-plans/week-8-overlay-networks-dhts-and-cdns/README.md)
-    * [Case Study: eGaming](blockchain-technology/lesson-plans/week-8-overlay-networks-dhts-and-cdns/case-study-egaming.md)
+    * [Case Study: E-Sports](blockchain-technology/lesson-plans/week-8-overlay-networks-dhts-and-cdns/case-study-e-sports.md)
     * [Case Study Questions](blockchain-technology/lesson-plans/week-8-overlay-networks-dhts-and-cdns/case-study-questions.md)
   * [Week 9: Content Delivery through Payment Channels](blockchain-technology/lesson-plans/week-9-content-delivery-through-payment-channels/README.md)
     * [Case Study: Transforming Content Delivery in the Philippines' eGaming Industry with Bitcoin Payment](blockchain-technology/lesson-plans/week-9-content-delivery-through-payment-channels/case-study-transforming-content-delivery-in-the-philippines-egaming-industry-with-bitcoin-payment.md)

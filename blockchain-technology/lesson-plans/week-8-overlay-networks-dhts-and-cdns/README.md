@@ -20,7 +20,8 @@
 ### III. Content Delivery Networks (CDNs) (15 minutes)&#x20;
 
 * Definition and role of CDNs&#x20;
-* CDNs as an overlay caching system for fast data delivery&#x20;
+* CDNs as an overlay caching system for fast data delivery
+* One example of a CDN in development is Project Babbage's Nanostore [https://projectbabbage.com/docs/nanostore](https://projectbabbage.com/docs/nanostore)&#x20;
 
 ### IV. Integration with the Bitcoin Protocol (15 minutes)&#x20;
 
