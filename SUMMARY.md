@@ -4,6 +4,12 @@
 
 * [Blockchain for Business 101](README.md)
   * [Subject Outline](blockchain-technology/blockchain-for-business-101/subject-outline.md)
+  * [Video Resources](blockchain-technology/blockchain-for-business-101/video-resources.md)
+  * [Academic Papers](blockchain-technology/blockchain-for-business-101/academic-papers/README.md)
+    * [Knowledge Monopolies and the Innovation Divide](blockchain-technology/blockchain-for-business-101/academic-papers/knowledge-monopolies-and-the-innovation-divide.md)
+    * [How Technology is Hijacking Your Mind](blockchain-technology/blockchain-for-business-101/academic-papers/how-technology-is-hijacking-your-mind.md)
+    * [Digital Maoism](blockchain-technology/blockchain-for-business-101/academic-papers/digital-maoism.md)
+    * [Data as Labour](blockchain-technology/blockchain-for-business-101/academic-papers/data-as-labour.md)
 * [Ateneo Course Outline](<README (1).md>)
 * [Social Impact](blockchain-technology/social-impact/README.md)
   * [Social Microservices Architecture](blockchain-technology/social-impact/social-microservices-architecture.md)

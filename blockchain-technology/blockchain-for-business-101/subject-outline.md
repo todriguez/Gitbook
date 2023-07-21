@@ -19,30 +19,15 @@
 * The Bitcoin database was created as a peer to peer payment system, but can equally well be thought of as a global distributed computer, with its own coding language, similar to Forth, called Bitcoin Script and data storage within 'blocks' in what Satoshi Nakamoto originally described as a 'block chain'.
 * 1.7 billion adults globally, and 66% of the Philippines' population of 109 million (72 million) are without access to a bank account. Bitcoin radically lowers the barrier to entry to financial services, anyone with a smartphone can now send and received money globally. [https://www.unbankedmap.org/](https://www.unbankedmap.org/)
 * In addition to this, the value, integrity and provenance of much of the data being collected on the internet is subject to Moral Hazard and Adverse Selection. Jaron Lanier coined the term 'Siren Server' to describe how internet users are not the true business customers of platforms like Facebook, Google and so forth and Tristan Harris at the Institute for Humane Technology describes how data and attention hacking can be weaponised against the interests of users for profit. None of this was planned, but it all results from a lack of ability of the internet to solve the handshake problem for data, to allow users to own their data and support micropayments.
-
-{% embed url="https://youtu.be/fhT1mseRLTs" %}
-
-{% embed url="https://youtu.be/OaTKaHKCAFg" %}
-
 * Introduction to the Original Bitcoin Protocol: Genesis and philosophy. Backdrop of the 2008 financial crisis, a problem of moral hazard and adverse selection in risk markets, also barriers to entry for sharing material risk data and material fact data were very high, thus by the time the appropriate risk markets were made to manage the risk of a housing bubble, it was too late to prevent systemic failure. Bitcoin solves this problem by creating better more transparent markets for data not just directly related to finance, but also directly related to material risk and material facts. This allows society to be able to afford and manage the sunk cost of engineering and, crucially, innovation, which, according to Robert Solow, accounts for 80% of economic growth.
 
 The Bitcoin Genesis block highlighted the backdrop of the problem of moral hazard in financial markets, stemming from artificial barriers to entry and an inability of market participants to deliver material risk and material fact information to be traded appropriately on time.&#x20;
-
-<figure><img src="../../.gitbook/assets/The-Times-Chancellor-on-Brink.jpeg" alt=""><figcaption><p>The Bitcoin Genesis Block contains the message from Satoshi Nakamoto, created on Janurary 3rd 2009 contains a message copying the front page headline from The Times of London that day 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks'</p></figcaption></figure>
 
 [https://whatsonchain.com/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f](https://whatsonchain.com/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f)
 
 <figure><img src="../../.gitbook/assets/v3F2yt2.png" alt=""><figcaption><p>The virtuous circle of investment</p></figcaption></figure>
 
-{% embed url="https://youtu.be/rN7BmmXfUiU" %}
-Prior to Bitcoin, only the big players could establish new material risk markets
-{% endembed %}
-
 * This course is aimed at entrepreneurs and leaders wishing to gain a fundamental grasp of Bitcoin technology and how that technology can be used to build the necessary systems to manage existing complexity and the increasing complexities of the future.
-
-{% embed url="https://youtu.be/AHXh1222HhE" %}
-Adam Curtis on Leadership
-{% endembed %}
 
 **Week 2 - An Overview of Business Applications for Bitcoin**
 
