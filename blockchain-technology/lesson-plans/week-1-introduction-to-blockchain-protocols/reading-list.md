@@ -14,4 +14,4 @@ This document provides a framework for analyzing whether a digital asset has the
 
 This article discusses an enforcement action by the SEC involving decentralized finance (DeFi). It highlights the importance of regulatory compliance for DeFi projects and provides insights into the SEC's perspective on digital assets and their classification as securities.
 
-These articles should provide your students with a solid understanding of the CryptoKitties failure and the SEC's guidance on what constitutes a security in the context of digital assets.
+These articles should provide students with a solid understanding of the CryptoKitties failure and the SEC's guidance on what constitutes a security in the context of digital assets.
