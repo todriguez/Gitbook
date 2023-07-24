@@ -1,0 +1,23 @@
+# How Technology is Hijacking Your Mind
+
+{% embed url="https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3" %}
+
+In today's fast-paced digital era, understanding the underlying principles that drive user engagement and behavior is paramount. This is even more critical in areas such as business computing and blockchain technology, where interactions with technology are becoming increasingly seamless and ubiquitous. The essay "How Technology is Hijacking Your Mind— from a Magician and Google Design Ethicist," authored by Tristan Harris, offers vital insights into these principles, making it a valuable addition to an Introduction to Business Computing and Blockchain course.
+
+Tristan Harris's essay provides an incisive critique of how technology and its design principles exploit users' psychological vulnerabilities to hijack their attention. Understanding these vulnerabilities is crucial for students studying business computing, as they will likely design, implement, or interact with similar systems in their future careers. By analyzing these hijacking mechanisms, students can learn how to create more ethically designed products and become more conscious users of technology themselves.
+
+Studying "How Technology is Hijacking Your Mind" equips students with a critical understanding of technology's persuasive patterns. They learn that technology is not neutral; instead, its design includes underlying principles that subtly guide users' decisions and behaviors. This knowledge is especially relevant in the context of blockchain, a technology heralded for its potential to decentralize power and democratize data ownership.
+
+However, just like any other technology, blockchain systems can also be designed to influence users' behavior. For example, the design of a blockchain-based app's user interface can affect user decisions, such as how often to interact with the app, what transactions to perform, and how to secure their digital assets. By understanding how technology can hijack the mind, students can approach blockchain applications with a more critical eye, design them more responsibly, and use them more consciously.
+
+Harris's essay also explores the concept of 'choice architecture,' the idea that the way choices are presented influences people's decisions. This concept is particularly pertinent in blockchain systems, where user autonomy and decision-making are central themes. Whether it's about selecting a blockchain platform, choosing a digital wallet, or deciding on a privacy setting, how these options are presented to users can significantly affect their choices.
+
+Understanding these principles can help students design systems that genuinely empower users rather than subtly manipulate their choices. This approach aligns with the ethos of blockchain technology, promoting transparency, autonomy, and user-centric design.
+
+One of the key takeaways from Harris's essay is the recognition of the attention economy's pitfalls. In the blockchain context, this understanding can lead to healthier digital environments. For instance, in blockchain-based social media platforms, the focus could shift from 'likes' and 'shares' to more meaningful interactions, fostering a healthier digital culture and promoting quality content.
+
+Furthermore, the essay's discussion on intermittent variable rewards— the powerful, addictive feedback loops used in technology design— can be applied to blockchain. Students can learn how blockchain applications, like cryptocurrencies, can inadvertently create similar feedback loops, leading to obsessive behaviors like incessant price checking or panic selling. By recognizing these patterns, they can design systems that discourage addictive behaviors.
+
+In conclusion, "How Technology is Hijacking Your Mind" offers a profound understanding of the psychological principles at play in technology design and usage. Integrating this essay into an introductory course on business computing and blockchain technology equips students with critical tools to navigate, design, and use digital systems more responsibly and consciously.
+
+By studying this piece, students will understand that although technology like blockchain holds great promise, it is not immune to manipulation and can still fall prey to unethical design principles. They will learn that as future builders and users of blockchain systems, they have the power and responsibility to create a more ethical digital environment. Therefore, studying this piece becomes an exercise not just in understanding technology, but also in ethics, responsibility, and conscious decision-making in the digital age.
