@@ -6,6 +6,14 @@ Introduction to Merkle Trees Course Material
 
 {% embed url="https://metastreme.com/whats-new/f/verifiable-lidar-data" %}
 
+The document details a project by Predict Ecology which leverages Merkle trees and blockchain technology to verify the authenticity of massive LiDAR data sets. The LiDAR technology generates large amounts of data (over 3 billion data points or around 230GB in this instance), which can be quite expensive to gather over large areas. To address this challenge, Predict Ecology created a service called MetaStamp.
+
+MetaStamp allows data sets to be broken down into hash trees or Merkle trees that can be used to verify individual data points, as opposed to only being able to verify the dataset in its entirety. The area was divided into 2.6 million individual 4x4m voxels that contain all data points for that space and average about 90KB each. Each voxel was used to construct a Merkle tree with each root hash written to the BitcoinSV public ledger.
+
+The tutorial can leverage the practical demonstration of Merkle trees in this case, explaining how large data sets can be split into smaller chunks (voxels in this case), and then transformed into Merkle trees for verification of individual data points. This shows how Merkle trees provide a system that can efficiently and securely verify the content of large data structures. It's a real-life application of Merkle trees in the field of remote sensing and large-scale data management.
+
+This information provides a practical understanding of the utilization of Merkle trees in ensuring data integrity and veracity in complex data systems. It is a good case study to demonstrate the importance of Merkle trees in data verifiability and the potential for integration with other technologies like blockchain for maintaining an auditable data trail.
+
 1. Explain the concept of immutability in the context of a blockchain. Why is this feature critical for data security and integrity?
 2. Describe the proof-of-work process in the Original Bitcoin Protocol. What role does it play in maintaining the immutability of the blockchain?
 3. How does the proof-of-work mechanism contribute to the overall security of the Original Bitcoin Protocol?

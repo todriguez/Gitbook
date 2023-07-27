@@ -1,0 +1,5 @@
+# Business Computing with Blockchain (201)
+
+**Course Description:** This advanced course provides an in-depth exploration of the Bitcoin ecosystem, with a particular focus on the scalable architecture of Bitcoin and its implications for business applications. Students will delve into the intricacies of Bitcoin protocols, understanding their interoperability and their pivotal role in creating secure, efficient, and scalable solutions. The course will also shed light on the myriad business opportunities that emerge from harnessing Bitcoin's distinctive features, such as micropayments, privacy, and the synergy with IPv6.
+
+Throughout the course, students will be exposed to a series of relevant case studies that underscore the potential business opportunities and societal impact of the Bitcoin ecosystem. These case studies will highlight the transformative power of Bitcoin technology in various sectors, including government processes, financial inclusion, and the creation of a more equitable and efficient digital society.

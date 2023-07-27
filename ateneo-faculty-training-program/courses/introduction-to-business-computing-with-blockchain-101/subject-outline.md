@@ -1,6 +1,6 @@
 # Subject Outline
 
-**Course Title:** Business Applications of the Original Bitcoin Protocol: A Foundation Course
+**Course Title:** Introduction to Business Computing with Blockchain (101)
 
 **Subject Description:** This 12-week foundational course aims to explore the transformative potential of the Original Bitcoin Protocol (OBP) for contemporary business processes. The course introduces students to the core principles of OBP, contrasting it with other blockchain technologies, and showcases its unique business applications. Utilizing real-world case studies, the course delves into how OBP can be utilized to enhance various business processes such as digital transactions, supply chain management, data management, regulatory compliance, large-scale operations, audit processes, B2B and B2C transactions, access management, notarization processes, triple-entry accounting, and EDI and invoicing. Students will develop a critical understanding of OBP and its role in transforming contemporary business landscapes.
 

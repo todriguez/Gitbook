@@ -21,7 +21,7 @@ The video provides a comprehensive overview of the Babbage and MetaNet core comp
 
 **Core Components and Functionality**
 
-* The core components of Babbage, such as MetaNet, Client Authright, and Ninja Nano Store, work together to create a cohesive set of technologies for achieving this goal. 🌐
+* The core components of Babbage, such as MetaNet Client, AuthRite, and Dojo and Ninja system and overlay networks work together to create a cohesive set of technologies for achieving this goal. 🌐
 * Different applications can plug into the same set of keys, allowing users to have control and ownership over their information. 🔃
 * The MetaNet client allows users to have control over their data by managing permissions for different apps, similar to how operating systems manage permissions on mobile devices. 📱
 * Dojo and Ninja are core components of the Babbage & MetaNet system, with Dojo serving as the UTXO manager and Ninja as the client-side front-end system that holds the private key and signs Bitcoin transactions. 📚

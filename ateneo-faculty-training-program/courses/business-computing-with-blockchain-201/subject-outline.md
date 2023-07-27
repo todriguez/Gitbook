@@ -1,8 +1,10 @@
 # Subject Outline
 
-Scalable Bitcoin Architecture: A Comprehensive Study of Bitcoin Protocols and their Business Applications
+## Business Computing with Blockchain (201)
 
-Course Description: This undergraduate course delves into the Bitcoin ecosystem, focusing on the scalable Bitcoin architecture and its potential for business applications. Students will gain a deep understanding of the Bitcoin protocols, their interoperability, and their role in creating secure, efficient, and scalable solutions. The course will also explore the business opportunities that arise from leveraging Bitcoin's unique features, such as micropayments, privacy, and the synergy with IPv6. Each week will feature a relevant case study that illustrates the potential business opportunities and social impact of the Bitcoin ecosystem.
+Course Description: This advanced course provides an in-depth exploration of the Bitcoin ecosystem, with a particular focus on the scalable architecture of Bitcoin and its implications for business applications. Students will delve into the intricacies of Bitcoin protocols, understanding their interoperability and their pivotal role in creating secure, efficient, and scalable solutions. The course will also shed light on the myriad business opportunities that emerge from harnessing Bitcoin's distinctive features, such as micropayments, privacy, and the synergy with IPv6.
+
+Throughout the course, students will be exposed to a series of relevant case studies that underscore the potential business opportunities and societal impact of the Bitcoin ecosystem. These case studies will highlight the transformative power of Bitcoin technology in various sectors, including government processes, financial inclusion, and the creation of a more equitable and efficient digital society.
 
 Course Outline:
 
@@ -48,13 +50,14 @@ Week 7: Introduction to Bitcoin Transactions
 
 * Overview of Bitcoin transactions and the role of Unspent Transaction Outputs (UTXOs)
 * Detailed breakdown of Bitcoin transactions
-* Case Study: Experiment with Transtructor to successfully broadcast a regtest transaction & Complete chapters 1-3 of Introduction to Bitcoin Script
+* Case Study: Experiment with Babbage SDK to broadcast a transaction from the Metanet Client and Transtructor to successfully broadcast a regtest transaction & Complete chapters 1-3 of Introduction to Bitcoin Script
 
 Week 8: Introduction to Bitcoin Scripting&#x20;
 
 * Overview of Bitcoin transactions and the role of Unspent Transaction Outputs (UTXOs)
 * Introduction to Bitcoin scripting and its importance in tokenization and programmable money
 * Completion of Introduction to Bitcoin Script Chapters 4-5
+* Case Study: Confederacy in UTXO based tokens and Overlay Networks
 
 Week 9: Evolution of Token Standards and Introduction to 1Sat Ordinals Protocol
 
