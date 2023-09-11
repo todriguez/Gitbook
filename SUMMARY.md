@@ -4,6 +4,7 @@
 
 * [Executive Summary](README.md)
 * [Training Program Overview](ateneo-faculty-training-program/training-program-overview.md)
+* [Six Sigma Approach](ateneo-faculty-training-program/six-sigma-approach.md)
 * [Navigating the GitBook](ateneo-faculty-training-program/navigating-the-gitbook.md)
 * [Courses](ateneo-faculty-training-program/courses/README.md)
   * [Introduction to Business Computing with Blockchain (101)](ateneo-faculty-training-program/courses/introduction-to-business-computing-with-blockchain-101/README.md)
