@@ -62,46 +62,91 @@ An overview of industries waiting to be disrupted by blockchain, with a brief su
 * Reading: Introduction to digital signatures - A comprehensive guide to understanding digital signatures in the context of OBP.
 * Exercise: Create a dummy contract for a business use case which you will write your short essay on and have the contract signed between 5 people using SignOnChain. Describe how this process could enhance and streamline the delivery of your business product or service.
 
+#### Week 7: The Original Bitcoin Protocol and Micropayments
+
+* Introduction to the concept of micropayments and their significance in the digital economy.
+* Examination of how OBP facilitates micropayments and its implications for businesses.
+* The implications of micropayments on the data harvesting model.
+* **Case Study:** The case for micropayments.
+
+#### Week 8: Identity
+
+* Introduction to the concept of digital identity and its significance in data privacy and security.
+* Identity and trust.
+* Identity and community.
+* Discussion on how OBP can facilitate self sovereign identity solutions.
+* **Case Study:** Ian Grigg's Identity Cycle
+
+#### Week 9: Tokens and Smart Contracts
+
+* Introduction to tokens, their types, and their significance in the digital economy.
+* Overview of smart contracts, their potential to automate and streamline business processes.
+* Examination of how OBP can be used to create, manage, and execute tokens and smart contracts.
+* **Case Study:** Tokenized protocol and desktop client.
+
 **Assessment 1: Short Essay Assignment (30% of final grade)**
 
 * Students will submit a short essay (1000 words) exploring the potential impact of Bitcoin as a data commodity ledger and time stamp server on a business process of their choice.
 
-**Week 7 - The Original Bitcoin Protocol and Triple Entry Accounting**
+**Week 10 - The Original Bitcoin Protocol and Triple Entry Accounting**
 
 * Examination of OBP's capabilities for triple-entry accounting, including how it can provide a transparent and tamper-proof record of financial transactions.
 * Discussion on the potential benefits of triple-entry accounting for businesses, including improved financial transparency, reduced fraud, and streamlined auditing.
-* Case Study: UNISOT - [https://unisot.com/case-study-the-fish-farming-industry/](https://unisot.com/case-study-the-fish-farming-industry/)\
+* Case Study: UNISOT - [https://unisot.com/case-study-the-fish-farming-industry/](https://unisot.com/case-study-the-fish-farming-industry/)
 
-
-**Week 8 - Regulatory Compliance and Blockchain Technologies**
+**Week 11 - Regulatory Compliance and Blockchain Technologies**
 
 * Overview of the regulatory landscape surrounding blockchain technologies, including data privacy laws, financial regulations, and industry-specific regulations.
 * Examination of OBP's design features that facilitate regulatory compliance, including transparency, auditability, and the ability to implement permissioned access.
 * Case Study: BSV based smart legal contract for voluntary carbon credits under ISDA definitions - [https://youtu.be/AuvJSbG5zV8?t=25973](https://youtu.be/AuvJSbG5zV8?t=25973)
 
-**Week 9 - Scalability of the Original Bitcoin Protocol**
+**Week 12 - Scalability of the Original Bitcoin Protocol**
 
 * Detailed study of OBP's scalability, including the enabling technologies and how it contrasts with other platforms.
 * Discussion on the importance of scalability in blockchain technologies and its implications for businesses.
 * Case Study: Certihash - [https://youtu.be/\_3VF07s9w4A?list=PLZ0pwNHAaRfn6LVwfk6moHngyvPqAJmbV](https://youtu.be/\_3VF07s9w4A?list=PLZ0pwNHAaRfn6LVwfk6moHngyvPqAJmbV)
 
-
-
-**Week 10 - The 'Set-in-Stone' Protocol of the Original Bitcoin Protocol**
+**Week 13 - The 'Set-in-Stone' Protocol of the Original Bitcoin Protocol**
 
 * Understanding the OBP protocol, its immutability, and implications for businesses.
 * Discussion on how a set-in-stone protocol with an accountable governance structure, like OBP, can act as reliable infrastructure underpinning business.
 * Case Study: Examination of how changes to the signature scheme can place modified protocols in violation of the Banking Secrecy Act - [https://craigwright.net/blog/bitcoin-blockchain-tech/schnorr/](https://craigwright.net/blog/bitcoin-blockchain-tech/schnorr/)
 
-**Week 11 - Efficiency and Incentives in the Original Bitcoin Protocol**
+**Week 14 - Efficiency and Incentives in the Original Bitcoin Protocol**
 
 * Examination of the incentive structure for nodes in OBP's Proof-of-Work system.
 * Understanding the efficiency of OBP's transaction processing capabilities.
 * Case Study: A detailed analysis of how OBP could enhance efficiency in B2B and B2C transactions.
 
-**Week 12 - The Future of the Original Bitcoin Protocol**
+#### Week 15: Blockchain, Data and Web3
+
+* Introduction to the Web3 concept: Decentralized internet powered by blockchain.
+* Discussion on how OBP can serve as the foundation for Web3, ensuring data integrity, transparency, and user control.
+* Examination of the shift from Web2 (centralized platforms) to Web3 and the implications for data ownership, privacy, and monetization.
+* Exploration of how OBP can empower users to have control over their data, fostering a more equitable digital ecosystem.
+* **Case Study:** A real-world example of a Web3 platform built on OBP, emphasizing user data control and decentralized operations.
+
+#### Week 16: Blockchain and the Material World
+
+* Introduction to the broader concept of property beyond just real estate: digital assets, intellectual property, and more.
+* Examination of how OBP can empower property rights, ensuring transparent, immutable, and verifiable ownership records.
+* Discussion on the Internet of Things (IoT) and Industrial Internet of Things (IIoT), and how OBP can secure and streamline these ecosystems.
+* Exploration of digital twins and dematerialized assets, examining OBP's role in their creation and management.
+* Introduction to the role of sensors in data collection and how OBP ensures data integrity.
+* Exploration of the tokenization of assets on OBP, allowing for the frictionless transfer, trade, and management of various kinds of assets.
+
+**Week 17: Blockchain and Insurance: Enhancing Actuarial Processes with Transparent Data Ontologies**
+
+* Introduction to the foundational role of data in the insurance industry, especially in actuarial processes.
+* Examination of the challenges faced by actuaries due to inconsistent, opaque, or unreliable data sources.
+* Discussion on how OBP can create transparent and immutable data ontologies, ensuring that the data used for risk assessment is consistent, verifiable, and trustworthy.
+* Exploration of how accurate and transparent data can lead to more precise pricing of risk, benefiting both insurers and the insured.
+* Discussion on how insuring assets with accurate risk pricing can attract liquidity and foster trust among stakeholders.
+
+**Week 18 - The Future of the Original Bitcoin Protocol**
 
 * Discussion on how OBP's unique features could lead to innovative future business applications.
+* IPv6
 * Case Study: Exploration of the potential of OBP to revolutionize EDI and invoicing processes.
 * Review and reflection on key learnings from the course.
 
