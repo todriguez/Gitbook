@@ -106,7 +106,45 @@ Craig Wright argues that Bitcoin is not a new form of money, but rather a commod
 
 <details>
 
-<summary><strong>Week 7 - The Original Bitcoin Protocol and Triple Entry Accounting</strong></summary>
+<summary>Week 7 - OBP and Micropayments</summary>
+
+[https://www.nngroup.com/articles/the-case-for-micropayments/](https://www.nngroup.com/articles/the-case-for-micropayments/)
+
+[https://www.theguardian.com/technology/2009/feb/13/micropayments-zimbabwe-internet](https://www.theguardian.com/technology/2009/feb/13/micropayments-zimbabwe-internet)
+
+
+
+
+
+
+
+</details>
+
+<details>
+
+<summary>Week 8 - OBP and Identity</summary>
+
+[https://docs.google.com/viewerng/viewer?url=https://www.iang.org/identity\_cycle/identity\_cycle-3-20211118.pdf](https://docs.google.com/viewerng/viewer?url=https://www.iang.org/identity\_cycle/identity\_cycle-3-20211118.pdf)
+
+
+
+</details>
+
+<details>
+
+<summary>Week 9 - Tokens and Smart Contracts</summary>
+
+[https://tokenized.com/#/protocol/docs/](https://tokenized.com/#/protocol/docs/)
+
+[https://docs.scrypt.io/](https://docs.scrypt.io/)
+
+
+
+</details>
+
+<details>
+
+<summary><strong>Week 10 - The Original Bitcoin Protocol and Triple Entry Accounting</strong></summary>
 
 * Case Study: UNISOT: This case study will provide you with a real-world example of how the Original Bitcoin Protocol can be used for triple-entry accounting.
 * The application of blockchain technology for supply chain visibility - A case study of the fish farm - [https://media.unisot.com/2019/08/Master-thesis-FINAL.pdf](https://media.unisot.com/2019/08/Master-thesis-FINAL.pdf)
@@ -118,7 +156,7 @@ Craig Wright argues that Bitcoin is not a new form of money, but rather a commod
 
 <details>
 
-<summary><strong>Week 8 - Regulatory Compliance and Blockchain Technologies</strong></summary>
+<summary><strong>Week 11 - Regulatory Compliance and Blockchain Technologies</strong></summary>
 
 * Case Study: BSV based smart legal contract for voluntary carbon credits under ISDA definitions: This case study will help you understand how the Original Bitcoin Protocol can be used to facilitate regulatory compliance.
 * The Big Short Movie Clip ISDA pitch - [https://youtu.be/rN7BmmXfUiU](https://youtu.be/rN7BmmXfUiU)\
@@ -141,7 +179,7 @@ Craig Wright argues that Bitcoin is not a new form of money, but rather a commod
 
 <details>
 
-<summary><strong>Week 9 - Scalability of the Original Bitcoin Protocol</strong></summary>
+<summary><strong>Week 12 - Scalability of the Original Bitcoin Protocol</strong></summary>
 
 * **Case Study - Sentinel Node:** This case study will provide you with a real-world example of how the Original Bitcoin Protocol can be scaled.
 *   **Real Time Cyber Breach Detection via BSV -** [https://youtu.be/\_3VF07s9w4A](https://youtu.be/\_3VF07s9w4A)\
@@ -157,7 +195,7 @@ Craig Wright argues that Bitcoin is not a new form of money, but rather a commod
 
 <details>
 
-<summary><strong>Week 10 - The 'Set-in-Stone' Protocol of the Original Bitcoin Protocol</strong></summary>
+<summary><strong>Week 13 - The 'Set-in-Stone' Protocol of the Original Bitcoin Protocol</strong></summary>
 
 * Case Study: Examination of how changes to the signature scheme can place modified protocols in violation of the Banking Secrecy Act: This case study will help you understand the implications of modifying the Original Bitcoin Protocol.
 * Schnorr - [https://craigwright.net/blog/bitcoin-blockchain-tech/schnorr/](https://craigwright.net/blog/bitcoin-blockchain-tech/schnorr/)\
@@ -180,7 +218,7 @@ Craig Wright argues that Bitcoin is not a new form of money, but rather a commod
 
 <details>
 
-<summary><strong>Week 11 - Efficiency and Incentives in the Original Bitcoin Protocol</strong></summary>
+<summary><strong>Week 14 - Efficiency and Incentives in the Original Bitcoin Protocol</strong></summary>
 
 * **Case Study:** A detailed analysis of how OBP could enhance efficiency in B2B and B2C transactions: This case study will provide you with a real-world example of how the Original Bitcoin Protocol can enhance efficiency in transactions.
 * [https://tokenized.com/#/download/](https://tokenized.com/#/download/)
@@ -188,8 +226,37 @@ Craig Wright argues that Bitcoin is not a new form of money, but rather a commod
 
 </details>
 
+<details>
+
+<summary>Week 15 - OBP, Data, Web3 and AI</summary>
+
+[https://ieeexplore.ieee.org/abstract/document/10230032](https://ieeexplore.ieee.org/abstract/document/10230032)
 
 
-**Week 12 - The Future of the Original Bitcoin Protocol**
 
-* Case Study: Exploration of the potential of OBP to revolutionize EDI and invoicing processes: This case study will help you understand the potential future applications of the Original Bitcoin Protocol.
+</details>
+
+<details>
+
+<summary>Week 16 - Blockchain and the Material World</summary>
+
+[https://www.sciencedirect.com/science/article/abs/pii/S0925527321001997](https://www.sciencedirect.com/science/article/abs/pii/S0925527321001997)
+
+</details>
+
+<details>
+
+<summary>Week 17 - Blockchain and Insurance</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Week 18 - The Future of OBP</summary>
+
+[https://ieeexplore.ieee.org/document/10087175](https://ieeexplore.ieee.org/document/10087175)
+
+</details>
+
