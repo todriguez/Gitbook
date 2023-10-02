@@ -147,7 +147,7 @@ An overview of industries waiting to be disrupted by blockchain, with a brief su
 
 * Discussion on how OBP's unique features could lead to innovative future business applications.
 * IPv6
-* Case Study: Exploration of the potential of OBP to revolutionize EDI and invoicing processes.
+* Case Study: Emerging Tech and its Social Impact
 * Review and reflection on key learnings from the course.
 
 **Assessment 2: Group Presentation (40% of final grade)**

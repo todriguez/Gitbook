@@ -234,13 +234,50 @@ Craig Wright argues that Bitcoin is not a new form of money, but rather a commod
 
 
 
+**Introduction and Background:** The article introduces Web3 as the next evolution of the World Wide Web, emphasizing its "read-write-own" user-centric approach. Unlike Web1 (read-based) and Web2 (read-write-based), Web3 aims to decentralize the internet, preventing a few major companies from holding most of the power. This new paradigm is built on a zero-trust architecture, which is essential for its decentralized and semantic nature based on user behavior.
+
+**Main Points:**
+
+1. **Identity Management:** For accessing Web3, there's a need to establish an identity management system. This involves setting up decentralized identifiers (DID) and linking data to these identifiers in the form of DID documents.
+2. **Decentralized Network Operating System:** Web3 requires a decentralized network operating system, emphasizing decentralization and a user-driven philosophy. This necessitates further development of technologies like blockchain and distributed ledger technology.
+3. **Incentive Mechanisms:** To ensure the long-term sustainability of Web3, a large-scale incentive mechanism is essential. This mechanism should motivate distributed players to maintain Web3.
+4. **Physical Infrastructure:** Web3 relies on physical infrastructure components like communication, networking, storage, and computing. These are vital for establishing a secure and effective Web3.
+5. **Special Issue Highlights:** The special issue of the magazine delves deeper into various aspects of Web3, including:
+   * **Metaverse-as-a-Service (MaaS)**: An architecture for unifying the orchestration and management of MaaS models.
+   * **Blockchain-Assisted Privacy-Preserving Data Computing**: A proposal for ensuring data authenticity and user privacy protection.
+   * **CNN Partitioning and Offloading**: A strategy for handling dynamic deep learning computation in Web3.
+   * **Reliable Decentralized Networks (RDN)**: Exploring content privacy protection potential.
+   * **MetaCube**: A unique user-generated content editor for Web3 metaverse.
+   * **AI and Blockchain Empowered Metaverse**: A vision for Web 3.0, highlighting challenges and future research directions.
+   * **deController**: A perspective on future decentralized Web3 infrastructures.
+   * **Fog-Assisted Blockchain Radio Access Network**: A proposal combining blockchain and fog computing for a decentralized system.
+
+***
+
+
+
 </details>
 
 <details>
 
 <summary>Week 16 - Blockchain and the Material World</summary>
 
-[https://www.sciencedirect.com/science/article/abs/pii/S0925527321001997](https://www.sciencedirect.com/science/article/abs/pii/S0925527321001997)
+[https://www.sciencedirect.com/science/article/abs/pii/S0925527321001997](https://www.sciencedirect.com/science/article/abs/pii/S0925527321001997)\
+\
+**Introduction and Background:** The paper delves into the concept of social manufacturing, a new paradigm in the manufacturing industry that leverages crowdsourcing and the sharing economy. This approach integrates and organizes socialized manufacturing resources (SMRs) in a community format, known as a social manufacturing community (SMC). The benefits of this approach include a flat management structure, efficient use of idle resources, and the servitization extension of products.
+
+**Main Points:**
+
+1. **Collaboration Challenges:** Social manufacturing faces collaboration issues due to distributed resources and the influence of social media. The cyber-physical-social system (CPSS) has been proposed as a solution to address these multidimensional collaboration challenges.
+2. **Digital Twins:** Digital twins are virtual representations of physical systems. In social manufacturing, they are essential for simulations, optimizations, and experiments based on physical SMRs. However, their development is knowledge-intensive and expensive, making it challenging for smaller entities to adopt them.
+3. **Intellectual Property Sharing:** The sharing of intellectual property, including digital twins, can promote knowledge exchange and improve collaboration in social manufacturing. This sharing can bridge the gap between large companies and SMEs, facilitating better collaboration.
+4. **Blockchain-based Platform:** The paper proposes a blockchain-based platform for sharing digital twins. This platform aims to protect the intellectual property of digital twins in decentralized environments and facilitate the integration of SMRs.
+5. **Research Questions:** The paper seeks to address how digital twins can be shared in a decentralized social manufacturing network and how they can be reconfigured to adapt to various runtimes.
+6. **Proposed Solution:** The solution involves a blockchain-based digital twin sharing platform, using domain-driven design (DDD) as the primary methodology. The platform ensures the protection and retrieval of digital twin copyrights in a decentralized SMC network.
+7. **Case Study:** A case study based on a 3D printing scenario is presented to verify and evaluate the proposed platform.
+
+\
+
 
 </details>
 
@@ -248,13 +285,31 @@ Craig Wright argues that Bitcoin is not a new form of money, but rather a commod
 
 <summary>Week 17 - Blockchain and Insurance</summary>
 
+[https://bico.media/6338aa78e9439a31836a42eb6b73f565223bf761d6fee92665fd06bec2c075fb](https://bico.media/6338aa78e9439a31836a42eb6b73f565223bf761d6fee92665fd06bec2c075fb)\
+\
 
+
+**Purpose and Scope:** The article aims to introduce blockchain technology and its potential applications in the insurance industry. It emphasizes the broad societal implications of blockchain and its potential to revolutionize business operations and governance.
+
+**Key Points:**
+
+1. **Blockchain's Potential:** Blockchain technology promises significant efficiency in business operations and governance. It should not be limited to specific sectors but should be applied broadly across the economy to reduce the cost of capital through risk decentralization.
+2. **Infrastructure and Blockchain:** The article suggests that the development of blockchain technology should begin with a consortium of insurance and professional engineering entities. This consortium would focus on creating infrastructure (like renewable energy, transportation systems, etc.) and its derivatives.
+3. **The Role of Insurance:** Infrastructure projects require financial institutions to bridge the gap between a project's inception and its revenue generation. The insurance industry plays a crucial role in this by pooling project risks, thereby reducing the cost of capital.
+4. **Article Structure:** The article is divided into three parts:
+   * **Part 1:** Discusses the problem that blockchain solves, touching upon the history of databases and the importance of organizational incentives for insurance.
+   * **Part 2:** Examines the insurability of individual components of a blockchain ecosystem.
+   * **Part 3:** Highlights how the insurance and engineering industries can bridge the gap in blockchain system insurability.
+5. **Blockchain's Impact on Society:** Blockchain technology has the potential to reshape how communities organize. For insurance companies, understanding how communities organize around potential risks is crucial for pricing insurance products correctly.
+6. **Database Evolution:** The article provides a brief history of database architecture, from early computer networks to the rise of proprietary data silos. It highlights the challenges faced when databases needed to communicate, leading to the introduction of administrators and APIs.
+7. **Real-world Application:** Using the real estate industry as an example, the article illustrates the complexities and inefficiencies of current systems, emphasizing the need for blockchain's streamlined and immutable record-keeping.
+8. **Quote Highlight:** "This is all very weird, only we’ve become accustomed to it." - Vinay Gupta, emphasizing the oddities of our current systems that we've normalized over time.
 
 </details>
 
 <details>
 
-<summary>Week 18 - The Future of OBP</summary>
+<summary>Week 18 - OBP, Emerging Tech and its Social Impact</summary>
 
 [https://ieeexplore.ieee.org/document/10087175](https://ieeexplore.ieee.org/document/10087175)
 
