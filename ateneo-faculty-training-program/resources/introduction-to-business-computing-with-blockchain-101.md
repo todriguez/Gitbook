@@ -112,8 +112,42 @@ Craig Wright argues that Bitcoin is not a new form of money, but rather a commod
 
 [https://www.theguardian.com/technology/2009/feb/13/micropayments-zimbabwe-internet](https://www.theguardian.com/technology/2009/feb/13/micropayments-zimbabwe-internet)
 
+**1. "The Case For Micropayments" by Jakob Nielsen (1998)**
 
+**Main Points:**
 
+* Websites funded by advertising will be controlled by advertisers, leading to more intrusive ads and a decline in user experience.
+* Micropayments can offer a solution, allowing users to pay small amounts (e.g., one cent) for quality content without ads.
+* Nielsen predicts a shift to micropayments for most non-commercial sites within two years.
+* The challenge is setting the right price. High costs deter users, but minimal charges (like electricity) are more acceptable.
+* Micropayments can encourage more content consumption, unlike subscription models which can limit access and break the web's interconnected nature.
+
+***
+
+**2. "The micropayments argument: do we want to turn the web into Zimbabwe?" by Charles Arthur (2009)**
+
+**Main Points:**
+
+* Micropayments have been a recurring topic, with experts like Nielsen advocating for their potential.
+* Challenges include standardization, potential exploitation by hackers, and user deterrence.
+* Past attempts, like Beenz and Flooz, failed due to lack of trust and the complexities of managing multiple currencies.
+* Micropayments could lead to a race to the bottom, with sites competing on price rather than quality.
+* The advertising model dominates the web, but micropayments could offer an alternative revenue stream.
+* Comparing micropayments to the Zimbabwean dollar, Arthur suggests that the concept is impractical and should be abandoned.
+
+***
+
+**Tutorial Questions and Answers:**
+
+1. **Bitcoin Whitepaper vs. Neilson and Arthur's Views:** The Bitcoin whitepaper highlights the inefficiencies of small casual payments due to mediation costs. Neilson aligns with this, advocating for micropayments as a solution. Arthur, however, is skeptical about the practicality of micropayments.
+2. **BSV's Scalability and Micropayments:** BSV's emphasis on scalability makes it well-suited for global micropayments. Unlike other blockchains with limited throughput, BSV can handle a vast number of small transactions efficiently.
+3. **HTTP Error Code 402:** Reserved for "Payment Required," this error code hints at a web where access to content might require payment. It aligns with the micropayments concept, suggesting a future where web transactions are more granular.
+4. **Inverting the Advertising Model:** Micropayments could shift the web from an ad-centric model to one where users pay for content directly. Benefits include improved user experience and content quality. Challenges involve user adoption and setting the right price points.
+5. **OBP's Approach vs. Neilson and Arthur:** The Original Bitcoin Protocol offers a decentralized, scalable solution for micropayments. Unlike the visions presented in the readings, OBP provides a practical, secure, and efficient mechanism for small transactions.
+6. **Narrative around Bitcoin:** The portrayal of Bitcoin as "digital gold" or a "store of value" has overshadowed its micropayment capabilities. This narrative may have hindered the broader adoption of Bitcoin for everyday transactions.
+7. **Challenges with Micropayments - Technological, Economic, or Cultural?**: The challenges are multifaceted. Technologically, there's the need for a system that can handle numerous small transactions. Economically, setting the right price points is crucial. Culturally, convincing users to adopt a pay-per-content model over free, ad-supported content is challenging.
+
+\
 
 
 
@@ -126,7 +160,22 @@ Craig Wright argues that Bitcoin is not a new form of money, but rather a commod
 
 [https://docs.google.com/viewerng/viewer?url=https://www.iang.org/identity\_cycle/identity\_cycle-3-20211118.pdf](https://docs.google.com/viewerng/viewer?url=https://www.iang.org/identity\_cycle/identity\_cycle-3-20211118.pdf)
 
+**Rationale for the Week:**
 
+The week's tutorial delves into the intricate nature of identity, exploring its evolution from tribal communities to modern state-issued identities. Through Grigg's writings, students are encouraged to critically assess the state's role in defining identity and the potential pitfalls of such a centralized approach. The tutorial also introduces the concept of "belongership" and its significance in challenging traditional views of identity. Furthermore, the session aims to bridge the gap between traditional concepts of identity and the potential of blockchain technology, emphasizing the importance of trust, community, and a more holistic view of identity.
+
+**Expected Learning Outcomes:**
+
+By the end of the week, students should be able to:
+
+1. Understand the evolution of identity from tribal communities to state-issued identities.
+2. Critically assess the state's role in defining and controlling identity.
+3. Grasp the concept of "belongership" and its implications for redefining identity.
+4. Recognize the potential of blockchain technology in creating decentralized, community-driven identity systems.
+5. Reflect on the importance of trust and community in shaping identity.
+6. Engage in discussions about the future of digital identity, especially in the context of blockchain platforms.
+
+These outcomes will equip students with a comprehensive understanding of identity's multifaceted nature and the potential of emerging technologies to reshape our perceptions and systems related to identity.
 
 </details>
 
@@ -138,6 +187,20 @@ Craig Wright argues that Bitcoin is not a new form of money, but rather a commod
 
 [https://docs.scrypt.io/](https://docs.scrypt.io/)
 
+By the end of Week 9, students should be able to:
+
+1. **Distinguish Tokens from Digital Assets:** Understand the fundamental differences between tokens and traditional digital assets, and recognize the unique advantages tokens offer in the digital economy.
+2. **Grasp Smart Contract Fundamentals:** Comprehend the concept, benefits, and challenges of smart contracts, especially in the context of real-world business applications.
+3. **Understand the Tokenized Protocol:** Gain insights into the Tokenized Protocol's structure, its serialization process, and how it facilitates the creation and management of tokens and smart contracts.
+4. **Appreciate the Role of Contract Operators:** Recognize the significance of Contract Operators in platforms like Tokenized and understand why businesses might opt to outsource this role.
+5. **Delve into Traditional Contract Law Principles:** Understand how platforms like Tokenized ensure that contracts created adhere to traditional contract law principles.
+6. **Explore Real-world Applications:** Drawing from case studies, understand the practical benefits and applications of leveraging tokens and smart contracts in business scenarios.
+7. **Navigate Challenges:** Identify potential pitfalls and challenges of implementing tokens and smart contracts in real-world scenarios and understand how platforms address these challenges.
+8. **Dive into sCrypt:** Understand the basics of sCrypt as an embedded domain-specific language for writing smart contracts on Bitcoin SV and its significance in the blockchain ecosystem.
+9. **Understand the UTXO Model:** Grasp the intricacies of the UTXO model as utilized in Bitcoin smart contracts and its distinction from the account model.
+10. **Appreciate sCrypt's eDSL Nature:** Recognize the benefits of sCrypt being an embedded domain-specific language based on TypeScript, especially for developers familiar with TypeScript/JavaScript.
+
+\
 
 
 </details>
@@ -223,6 +286,17 @@ Craig Wright argues that Bitcoin is not a new form of money, but rather a commod
 * **Case Study:** A detailed analysis of how OBP could enhance efficiency in B2B and B2C transactions: This case study will provide you with a real-world example of how the Original Bitcoin Protocol can enhance efficiency in transactions.
 * [https://tokenized.com/#/download/](https://tokenized.com/#/download/)
 * Set up the tokenized desktop client and experiment with event tickets and reward programs.&#x20;
+
+
+
+**Expected Learning Outcomes:**
+
+By the end of this tutorial, students should be able to:
+
+1. **Understand the Practical Applications of OBP:** Grasp how the Original Bitcoin Protocol can enhance efficiency in B2B and B2C transactions.
+2. **Utilize the Tokenized Desktop Client:** Set up and experiment with the Tokenized Desktop Client, creating event tickets and reward programs.
+3. **Design a Mock Business Plan:** Conceptualize a business that leverages the contract types available from the Tokenized Desktop Wallet, highlighting efficiency gains and social impact.
+4. **Appreciate the Social Impact of Business:** Understand the importance of businesses contributing positively to society and addressing pressing social issues.
 
 </details>
 
