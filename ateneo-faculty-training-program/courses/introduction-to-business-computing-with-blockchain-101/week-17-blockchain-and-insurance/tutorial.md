@@ -8,7 +8,7 @@
 4. How does the Time Keeper concept work in blockchain, and what problem does it solve?
 5. What role does the proof-of-work algorithm play in the blockchain ecosystem, and how does it incentivize participation?
 6. How does the article argue for the insurability of various components of blockchain technology?
-7. Why does the article state that cryptocurrencies like Bitcoin are neither money nor property, and what are the implications for their insurability?
+7. Why does the article state that digital assets like Bitcoin are neither money nor property, and what are the implications for their insurability?
 8. What challenges does the insurance industry face in insuring blockchain-based enterprises, according to the article?
 9. How does the article propose bridging the "insurability gap" for blockchain technology?
 10. What is the hybrid model suggested in the article for making blockchain systems more insurable, and how does it work?
